@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Create CollegeDB Database and Department Table",
+      "setup": "chmod +x test.sh",
+      "run": "./test.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 10
+    }
+  ]
+}
