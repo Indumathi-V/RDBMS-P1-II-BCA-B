@@ -40,4 +40,4 @@ jobs:
       - name: Run Autograding
         run: |
           chmod +x test.sh
-          ./tests/test.sh
+          ./test.sh
